@@ -6,4 +6,7 @@
 * 字数は１万2000字から４万5000字
 * https://note.com/tginkei/n/nf2b2d5a40b48
 
+### Notion プロジェクトページ
+
+https://www.notion.so/2d66de87b61680af8646c2f5489f2e9c
 
