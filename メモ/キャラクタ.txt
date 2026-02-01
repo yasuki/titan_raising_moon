@@ -109,3 +109,13 @@ https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%8
     - 「凍結（Cryo）」こそが永遠の安寧であるとし、変化（治療や実験）を嫌う保守的なカルト集団。
     - 彼らの宇宙船は氷の塊のような分厚い装甲で覆われており、防御力が異常に高い。
     - ティジリの「クリスタル化」を「不完全な凍結」として忌み嫌う。
+
+
+{ "key": "ctrl+down",             "command": "quickInput.next",
+                                     "when": "inQuickInput && quickInputType == 'quickPick' || inQuickInput && quickInputType == 'quickTree'" },
+
+{ "key": "ctrl+up",               "command": "quickInput.previous",
+                                     "when": "inQuickInput && quickInputType == 'quickPick' || inQuickInput && quickInputType == 'quickTree'" },
+
+
+                                     
